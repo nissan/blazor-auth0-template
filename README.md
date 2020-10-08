@@ -2,7 +2,8 @@
 This holds "Getting started" code for building a Blazor Server Side or Blazor WebAssembly application that already includes Auth0 integration components configurable from a settings file.
 
 ## Reference documentation
-- [Reference article for Blazor Server Side application][1]
+- [Reference article for Securing Blazor Server Side application with Auth0][1]
+- [Reference article for Securing Blazor WebAssembly Apps with Auth0][3]
 - [Reference Documentation on user secrets][2]
 - 
 ## Notes
@@ -31,3 +32,4 @@ After deploying, any new Razor Page created needs to have the following added to
 
 [1]: https://auth0.com/blog/what-is-blazor-tutorial-on-building-webapp-with-authentication/ 
 [2]: https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-3.1&tabs=windows
+[3]: https://auth0.com/blog/securing-blazor-webassembly-apps/
