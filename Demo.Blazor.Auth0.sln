@@ -15,11 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Blazor.Auth0.WA.WebApp.Server", "Demo.Blazor.Auth0.WA.WebApp\Server\Demo.Blazor.Auth0.WA.WebApp.Server.csproj", "{29D0D2DF-24F5-42F1-B26A-102048AEE1CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Blazor.Auth0.WA.WebApp.Server", "Demo.Blazor.Auth0.WA.WebApp\Server\Demo.Blazor.Auth0.WA.WebApp.Server.csproj", "{29D0D2DF-24F5-42F1-B26A-102048AEE1CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Blazor.Auth0.WA.WebApp.Client", "Demo.Blazor.Auth0.WA.WebApp\Client\Demo.Blazor.Auth0.WA.WebApp.Client.csproj", "{2EB66AA2-9190-4D5D-B96F-1AD86AEBF500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Blazor.Auth0.WA.WebApp.Client", "Demo.Blazor.Auth0.WA.WebApp\Client\Demo.Blazor.Auth0.WA.WebApp.Client.csproj", "{2EB66AA2-9190-4D5D-B96F-1AD86AEBF500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Blazor.Auth0.WA.WebApp.Shared", "Demo.Blazor.Auth0.WA.WebApp\Shared\Demo.Blazor.Auth0.WA.WebApp.Shared.csproj", "{D34A6D66-EF23-439D-BE10-53AC684C9337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Blazor.Auth0.WA.WebApp.Shared", "Demo.Blazor.Auth0.WA.WebApp\Shared\Demo.Blazor.Auth0.WA.WebApp.Shared.csproj", "{D34A6D66-EF23-439D-BE10-53AC684C9337}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
