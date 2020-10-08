@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the Docker image
-      run: docker build . --file $GITHUB_WORKSPACE/Demo.Blazor.Auth0/Demo.Blazor.Auth0.SS.WebApp/Dockerfile --tag demo-blazor-auth0-ss-webapp:$(date +%s)
+      run: docker build . --file Dockerfile --tag demo-blazor-auth0-ss-webapp:$(date +%s)
